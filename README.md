@@ -1,5 +1,4 @@
 <h1>Google News Fetcher & Analyzer</h1>
-<h></h>
 
 <h4>Features</h4>
 <ul>
@@ -11,5 +10,4 @@
 <li>Saving the result in a .csv file</li>
 </ul>
 
-<h4>Result Example</h4>
-![alt text](https://raw.githubusercontent.com/MohamedWagih96/GoogleNews-Fetcher/master/example.png)
+![alt text](https://raw.githubusercontent.com/MohamedWagih96/GoogleNews-Fetcher/master/example.png "Results Example")
