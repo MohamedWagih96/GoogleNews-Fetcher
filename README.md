@@ -10,4 +10,12 @@
 <li>Saving the result in a .csv file</li>
 </ul>
 
+<h4>Dependencies</h4>
+<ul>
+  <li>nltk</li>
+  <li>BeautifulSoup</li>
+  <li>selenium</li>
+  <li>pandas</li>
+</ul>
+
 ![alt text](https://raw.githubusercontent.com/MohamedWagih96/GoogleNews-Fetcher/master/example.png "Results Example")
