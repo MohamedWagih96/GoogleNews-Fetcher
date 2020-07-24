@@ -18,6 +18,6 @@
   <li>pandas</li>
 </ul>
 
-The code for sentiment analysis was modified from sentdex tutorial [here](https://www.youtube.com/watch?v=qTyj2R-wcks).
+The code for sentiment analysis was taken and modified from sentdex tutorial [here](https://www.youtube.com/watch?v=qTyj2R-wcks).
 
 ![alt text](https://raw.githubusercontent.com/MohamedWagih96/GoogleNews-Fetcher/master/example.png "Results Example")
